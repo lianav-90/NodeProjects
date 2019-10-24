@@ -1,0 +1,15 @@
+{
+  "name": "Projects",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Liana",
+  "license": "ISC",
+  "dependencies": {
+    "jslint": "^0.12.1"
+  }
+}
